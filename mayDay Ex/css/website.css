@@ -1,0 +1,31 @@
+body{
+	background-color: #0f1c51;
+	margin-left: 15px;
+	margin-right: 15px
+}
+p{
+	padding-top: 15PX;
+	margin: 18px 0px;
+	color: rgba(126,120,112,1);
+	font size: 15px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: lighter;
+}
+a{
+	font-weight: lighter;
+	float: right;
+	font-size: 15px;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0px 0px 0px 15px;
+	padding-bottom: 15px;
+	color: rgba(126,120,112,1);
+	text-decoration: none;
+}
+nav{
+	padding-top: 5px;
+	padding-bottom: 35px;
+}
+.V{
+	height: 100px;
+	width: 180px;
+}

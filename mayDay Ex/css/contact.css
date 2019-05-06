@@ -1,0 +1,28 @@
+body{
+	background-color: #231f20;
+	margin-left: 45px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+.N{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #FFFFFF;
+	padding: 10px 20px;
+	font-weight: lighter;
+}
+h2{
+	font-family: Verdana, Geneva, sans-serif;
+}
+div{
+	color: #FFFFFF;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+p{
+	font-family: Verdana, Geneva, sans-serif;
+}
